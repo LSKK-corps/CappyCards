@@ -1,0 +1,15 @@
+#!/bin/bash
+cd ~/desktop/cap
+while true;do
+echo "Press what sheet you want."
+read thing
+if [[ 1 = $thing ]];then
+open 1.png
+elif [[ 2 = $thing ]];then
+open 2.png
+elif [[ 3 = $thing ]];then
+open 3.png
+elif [[ 4 = $thing ]];then
+open 4.png
+fi
+done
