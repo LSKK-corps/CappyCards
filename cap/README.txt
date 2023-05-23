@@ -1,1 +1,1 @@
-The cards are part of this software.
+The cards are part of this software and the license applies individualy.
